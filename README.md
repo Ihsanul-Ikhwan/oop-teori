@@ -18,7 +18,7 @@ menjadi objek atau objek ke bentuk tipe data primitive. Fitur yang mengubahnya a
  
 Bentuk tipe data primitif dan wrapper Class
 
-|   **Tipe Data Primitive**     |   **Wrapper Class**   |
+|   Tipe Data Primitive     |   Wrapper Class |
 |:-----------------------------:|:---------------------:|
 |           char                |       Character       |
 |           byte                |         Byte          |
