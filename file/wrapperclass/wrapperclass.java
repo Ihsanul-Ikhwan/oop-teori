@@ -1,3 +1,5 @@
+package wrapperclass;
+
 // kelas yang mengkonvert semua jenis tipe data primitive ke bentuk
 // wrapper object dan vice-versa
 public class wrapperclass {
