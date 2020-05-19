@@ -1,5 +1,7 @@
+package finalclass;
+
 class FinallizeEx{
-    public void finallizeex(){
+    public void FinallizeEx(){
         System.out.println("Finallize called");
     }
 
@@ -8,6 +10,6 @@ class FinallizeEx{
         FinallizeEx f2 = new FinallizeEx();
         f1 = null;
         f2 = null;
-        System.gc;
+        System.gc();
     }
 }

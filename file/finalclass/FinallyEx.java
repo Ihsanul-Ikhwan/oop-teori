@@ -1,3 +1,5 @@
+package finalclass;
+
 class FinallyEx{
     public static void main(String[] args) {
         try{
